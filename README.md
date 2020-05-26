@@ -9,6 +9,9 @@
 3. Jenkins
 4. Docker
 
+### Article link
+https://www.linkedin.com/posts/kapil-mundra-2a7960194_devopsabrassemblyabrline-projectabraim-problemabrstatement-activity-6667384490328911872-j0lA
+
 ### Problem_Statement
 1. Create container image that’s has Jenkins installed using dockerfile
 2. When we launch this image, it should automatically starts Jenkins service in the container.
